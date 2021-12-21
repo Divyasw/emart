@@ -1,4 +1,4 @@
 /* Navbar */
-.navbar-nav a{
+.navbar-nav NavLink{
     font-size: 18px;
 }
